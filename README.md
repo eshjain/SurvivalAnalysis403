@@ -13,3 +13,9 @@ This style can be found by following the link and playing with the "Both shape a
 We analyzed the times to completion for these two data sets using surivival analysis, KM curves, and hazard plots.
 
 We were able to conclude that color did in fact have an effect on time taken to complete this matching game.
+
+The .csv file is the data set in which we had 30 people play one style of the game and 30 different people play the other style of the game.
+
+The .r file is the code I wrote for the statistical analysis conducted.
+
+The .pdf file was our groups paper on our experiment and the conclusions we were able to draw from it.
